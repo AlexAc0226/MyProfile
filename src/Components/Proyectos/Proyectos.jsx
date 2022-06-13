@@ -1,7 +1,6 @@
 import React from "react";
 import proyectosStyle from "./Proyectos.module.css";
 import perriwiki from "./img/perriwiki.png";
-import TipApp from "./img/TipApp.jpeg";
 import CityCell from "./img/CityCell.jpeg";
 import github from "./img/github.svg";
 import web from "./img/web.svg";
